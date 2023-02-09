@@ -15,7 +15,7 @@ Content-Type: application/json
     "photo": "Mar",
     "description": "Azul e calmo",
     "type": "normal",
-    "authorId": "246810",
+    "authorId": "e801118a-6fad-41b2-a0a0-2b6350bf0442",
 }
 ###
 POST http://localhost:3003/friendship/create
